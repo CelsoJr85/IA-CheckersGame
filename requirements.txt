@@ -1,0 +1,11 @@
+# Checkers Game Requirements
+# Main dependency for game graphics and input handling
+pygame>=2.1.0
+
+# Optional: For better performance and additional features
+# numpy>=1.21.0  # Uncomment if you want to add numpy for advanced AI calculations
+
+# Development dependencies (optional)
+# black>=22.0.0  # Code formatter
+# flake8>=4.0.0  # Linting
+# pytest>=7.0.0  # Testing framework
